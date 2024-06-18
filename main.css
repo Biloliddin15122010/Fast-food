@@ -1,0 +1,25 @@
+h1{
+background-color: black;
+text-align: center;
+
+}
+
+button{
+    width: 150px;
+    padding: 8px 10px;
+border-radius: 30px; 
+margin-top: 10px;border: 2px solid #131314;
+background: #131314;
+color: #fff;
+font-family:  'Roboto Condensed', sans-serif;
+box-shadow: 3px 5px 8px gray;
+transition: all .3s ease-in-out;
+cursor: pointer;
+margin-bottom: 60px;
+}
+
+button:hover{
+    color:#131314;
+background: transparent;
+font-weight: bold;
+}
